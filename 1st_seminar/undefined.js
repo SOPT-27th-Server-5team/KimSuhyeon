@@ -11,3 +11,5 @@ console.log('null === undefined', null === undefined)
 // === : 동등연산자, 타입까지 같은지 비교한다.
 console.log('null == undefined', null == undefined);
 // == : 타입을 보지 않고, 그 자체의 값만 본다.
+
+console.log('23 == "23"', 23 == "23")
